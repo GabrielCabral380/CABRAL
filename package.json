@@ -1,0 +1,15 @@
+{
+  "name": "cabral-club",
+  "version": "1.0.0",
+  "description": "CABRAL.CLUB — Portal CABRAL com Ollama integrado",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "http-proxy-middleware": "^3.0.0"
+  }
+}

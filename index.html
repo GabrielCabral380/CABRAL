@@ -6,133 +6,334 @@
   <title>CABRAL.CLUB - Portal CABRAL</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
-<body data-page="portal">
-  <div class="announce-bar">
-    <div class="container announce-inner">
-      <a href="https://t.me" target="_blank" rel="noreferrer">CABRAL.VIP Participe da Comunidade</a>
-      <span>Espelho público inspirado no ecossistema de cursos, biblioteca e GitHub técnico</span>
-    </div>
-  </div>
-
-  <header class="hero-shell container">
-    <div class="brand-lockup">
-      <div class="eyebrow">CABRAL.CLUB</div>
-      <h1>Portal CABRAL</h1>
-      <p class="hero-sub">Acesso centralizado aos seus cursos e plataformas</p>
-      <div class="hero-counters">
-        <span>👁 <strong id="viewCount">--</strong></span>
-        <span>👤 <strong id="memberCount">--</strong></span>
-      </div>
-    </div>
-    <nav class="main-nav">
-      <a href="#iniciantes">📘 Iniciantes</a>
-      <a href="#cursos">🎓 Cursos</a>
-      <a href="#vibecode">⚡ Vibe Code</a>
-      <a href="#skills">🧩 Skills</a>
-      <a href="#trilhas">🗺️ Trilhas</a>
-      <a href="#projetos">🚀 Projetos</a>
-      <a href="#github">💻 GitHub</a>
-      <a href="#telegram">💬 Telegram</a>
-      <a href="#social">📱 Social</a>
-    </nav>
-
-    <div class="hero-banner">
-      <img src="https://raw.githubusercontent.com/GabrielCabral380/CABRAL/main/data/hero.png" alt="Crie seu time. Lidere sua jornada." onerror="this.style.display='none'">
-      <p><strong>Comece sua jornada agora e compartilhe as trilhas especiais para iniciantes. É aqui que o futuro começa — e ele precisa de você.</strong></p>
-    </div>
-
-    <section class="hero-block card glow">
-      <div class="hero-copy">
-        <span class="badge">Portal técnico + catálogo + espelho GitHub</span>
-        <h2>Crie sua Equipe, Seu Time. Nós Ajudamos.</h2>
-        <p>O CABRAL Clube é o ponto de partida para quem quer se preparar para o futuro. Nosso foco é ajudar você a formar e desenvolver seu próprio time — pessoas com propósito, visão e capacidade de atuar em um mundo onde a Inteligência Artificial e a Robótica estarão em todos os lugares.</p>
-        <p>O CABRAL não é apenas uma plataforma de conhecimento — é uma comunidade viva, feita por pessoas que acreditam no poder do aprendizado, da inovação e da colaboração para transformar o futuro.</p>
-        <div class="cta-row">
-          <a class="btn primary" href="pro.html">Abrir CABRAL.PRO</a>
-          <a class="btn" href="https://github.com/GabrielCabral380" target="_blank" rel="noreferrer">Abrir GitHub</a>
+<body>
+  <!-- HEADER -->
+  <header class="header">
+    <div class="container">
+      <a href="https://t.me/cabralclub" target="_blank" rel="noopener noreferrer" class="community-badge">
+        <span>💎 CABRAL.VIP — Participe da Comunidade</span>
+      </a>
+      <div class="header-content">
+        <h1 class="logo">CABRAL.CLUB <span class="logo-sub">Portal CABRAL</span></h1>
+        <p class="tagline">Acesso centralizado aos seus cursos, plataformas e agentes de IA</p>
+        <div class="visit-chips">
+          <span class="visit-chip" title="acessos">👁 <strong id="viewCount">--</strong></span>
+          <span class="visit-chip" title="visitantes únicos">👤 <strong id="memberCount">--</strong></span>
         </div>
       </div>
-      <div class="hero-stats">
-        <div class="stat"><span id="repoCount">--</span><small>repositórios públicos</small></div>
-        <div class="stat"><span id="courseCount">--</span><small>cursos e projetos</small></div>
-        <div class="stat"><span id="langCount">--</span><small>linguagens</small></div>
-      </div>
-    </section>
+    </div>
   </header>
 
-  <main class="container stack-xl">
-    <section id="iniciantes" class="section-stack">
-      <div class="section-title-row">
+  <!-- NAV -->
+  <nav class="section-nav">
+    <div class="container">
+      <div class="section-nav-links">
+        <a href="#trilha-iniciantes" class="section-nav-link">📘 Iniciantes</a>
+        <a href="#trilha-profissional" class="section-nav-link">🧭 Profissional</a>
+        <a href="#cursos" class="section-nav-link">🎓 Cursos</a>
+        <a href="#trilha-vibe" class="section-nav-link">⚡ Vibe Code</a>
+        <a href="#trilha-skills" class="section-nav-link">🧩 Skills</a>
+        <a href="#trilhas" class="section-nav-link">🗺️ Trilhas</a>
+        <a href="#comunidade" class="section-nav-link">🚀 Projetos</a>
+        <a href="#github" class="section-nav-link">💻 GitHub</a>
+        <a href="#telegram" class="section-nav-link">💬 Telegram</a>
+        <a href="#social" class="section-nav-link">📱 Social</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- RECRUITMENT HERO -->
+  <section class="recruitment-hero">
+    <div class="container">
+      <div class="recruitment-content">
+        <div class="recruitment-image-wrapper">
+          <div class="recruitment-image">
+            <img src="https://raw.githubusercontent.com/GabrielCabral380/CABRAL/main/data/hero.png" alt="Crie seu time. Lidere sua jornada." onerror="this.style.display='none'">
+          </div>
+          <p class="recruitment-image-caption"><strong>Comece sua jornada agora e compartilhe as trilhas especiais para iniciantes. É aqui que o futuro começa — e ele precisa de você.</strong></p>
+        </div>
+        <div class="recruitment-text">
+          <h2>Crie sua Equipe, Seu Time. Nós Ajudamos.</h2>
+          <p>O CABRAL Clube é o ponto de partida para quem quer se preparar para o futuro. Nosso foco é ajudar você a formar e desenvolver seu próprio time — pessoas com propósito, visão e capacidade de atuar em um mundo onde a Inteligência Artificial e a Robótica estarão em todos os lugares.</p>
+          <p>O CABRAL não é apenas uma plataforma de conhecimento — é uma comunidade viva, feita por pessoas que acreditam no poder do aprendizado, da inovação e da colaboração para transformar o futuro.</p>
+          <p class="recruitment-cta">Você está pronto para criar, liderar e construir o amanhã conosco?</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- TRILHA INICIANTES -->
+  <section id="trilha-iniciantes" class="learning-path-section">
+    <div class="container">
+      <div class="learning-path-header">
         <h3>Trilha para Iniciantes</h3>
-        <span class="muted">Comece sua jornada com os cursos essenciais, nesta ordem recomendada</span>
+        <p>Comece sua jornada com os cursos essenciais, nesta ordem recomendada</p>
       </div>
-      <div id="beginnerTrack" class="track-grid"></div>
-      <p class="muted">Após completar esta trilha, explore outros cursos conforme seu interesse abaixo</p>
-    </section>
+      <div class="learning-path-cards">
+        <a href="https://gabrielcabral380.github.io/FEP/" target="_blank" rel="noopener noreferrer" class="path-card path-card-1">
+          <div class="path-number">1</div>
+          <h4>FEP</h4>
+          <p>Fundamentos de Engenharia de Prompts</p>
+        </a>
+        <a href="https://gabrielcabral380.github.io/ATIA/" target="_blank" rel="noopener noreferrer" class="path-card path-card-2">
+          <div class="path-number">2</div>
+          <h4>ATIA</h4>
+          <p>AI Tools in Action</p>
+        </a>
+        <a href="https://gabrielcabral380.github.io/JARVIS/" target="_blank" rel="noopener noreferrer" class="path-card path-card-3">
+          <div class="path-number">3</div>
+          <h4>JARVIS</h4>
+          <p>Assistente IA Pessoal com Voz</p>
+        </a>
+        <a href="https://gabrielcabral380.github.io/VISION/" target="_blank" rel="noopener noreferrer" class="path-card path-card-4">
+          <div class="path-number">4</div>
+          <h4>Vision</h4>
+          <p>Processamento de Imagens com IA</p>
+        </a>
+      </div>
+      <div class="learning-path-footer">
+        <p>Após completar esta trilha, explore outros cursos conforme seu interesse abaixo</p>
+      </div>
+    </div>
+  </section>
 
-    <section id="github" class="grid-2">
-      <article class="card">
-        <div class="section-head section-head-compact">
+  <!-- TRILHA PROFISSIONAL -->
+  <section id="trilha-profissional" class="learning-path-section">
+    <div class="container">
+      <div class="learning-path-header">
+        <h3>🧭 Trilha Profissional com IA</h3>
+        <p>Do espectador ao especialista, em 3 estágios — integre, implemente e lidere</p>
+      </div>
+      <div style="text-align:center;font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:.82rem;color:#34d399;margin:0 0 .9rem">1 · Despertar — integre a IA na sua profissão</div>
+      <div class="learning-path-cards">
+        <a href="https://gabrielcabral380.github.io/profissionalai/" target="_blank" rel="noopener noreferrer" class="path-card path-card-1">
+          <div class="path-number">1</div>
+          <h4>Integra sua Profissão</h4>
+          <p>Integre a IA na profissão que você já tem</p>
+        </a>
+        <a href="https://gabrielcabral380.github.io/pha2030/" target="_blank" rel="noopener noreferrer" class="path-card path-card-2">
+          <div class="path-number">2</div>
+          <h4>PHA 2030</h4>
+          <p>Potencial Humano Aumentado</p>
+        </a>
+        <a href="https://gabrielcabral380.github.io/ATIA/" target="_blank" rel="noopener noreferrer" class="path-card path-card-3">
+          <div class="path-number">3</div>
+          <h4>ATIA</h4>
+          <p>Oportunidades Digitais com IA</p>
+        </a>
+        <a href="https://gabrielcabral380.github.io/intelecto/" target="_blank" rel="noopener noreferrer" class="path-card path-card-4">
+          <div class="path-number">4</div>
+          <h4>INTELECTO</h4>
+          <p>Do Zero ao Expert em IA</p>
+        </a>
+      </div>
+      <div style="text-align:center;font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:.82rem;color:#38bdf8;margin:1.6rem 0 .9rem">2 · Implementar — vire quem produz com IA</div>
+      <div class="learning-path-cards">
+        <a href="https://gabrielcabral380.github.io/profissional2027/" target="_blank" rel="noopener noreferrer" class="path-card path-card-1">
+          <div class="path-number">1</div>
+          <h4>Profissional 2027</h4>
+          <p>Implementadores de IA para PMEs</p>
+        </a>
+        <a href="https://gabrielcabral380.github.io/prof2030/" target="_blank" rel="noopener noreferrer" class="path-card path-card-2">
+          <div class="path-number">2</div>
+          <h4>Prof2030</h4>
+          <p>O Profissional do Futuro</p>
+        </a>
+        <a href="https://gabrielcabral380.github.io/fae-ai/" target="_blank" rel="noopener noreferrer" class="path-card path-card-3">
+          <div class="path-number">3</div>
+          <h4>Automação Estratégica</h4>
+          <p>Automação Estratégica com IA</p>
+        </a>
+      </div>
+      <div style="text-align:center;font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:.82rem;color:#a78bfa;margin:1.6rem 0 .9rem">3 · Liderar & Monetizar — consultor, CAIO, certificação</div>
+      <div class="learning-path-cards">
+        <a href="https://gabrielcabral380.github.io/caio/" target="_blank" rel="noopener noreferrer" class="path-card path-card-1">
+          <div class="path-number">1</div>
+          <h4>CAIO</h4>
+          <p>Chief AI Officer 2030</p>
+        </a>
+        <a href="https://gabrielcabral380.github.io/caip/" target="_blank" rel="noopener noreferrer" class="path-card path-card-2">
+          <div class="path-number">2</div>
+          <h4>CAIP</h4>
+          <p>Certified AI Professional</p>
+        </a>
+        <a href="https://gabrielcabral380.github.io/consultoria/" target="_blank" rel="noopener noreferrer" class="path-card path-card-3">
+          <div class="path-number">3</div>
+          <h4>Consultor de IA</h4>
+          <p>Do Rótulo ao Resultado</p>
+        </a>
+        <a href="https://gabrielcabral380.github.io/aiestrategia/" target="_blank" rel="noopener noreferrer" class="path-card path-card-4">
+          <div class="path-number">4</div>
+          <h4>Estratégia de IA</h4>
+          <p>Fábrica de Estratégia — Vire Consultor</p>
+        </a>
+      </div>
+      <div class="learning-path-footer">
+        <p>Uma jornada do CABRAL.CLUB: integre a IA na sua profissão, vire implementador e depois consultor ou CAIO</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- MAIN CONTENT -->
+  <main class="main">
+    <div class="container">
+
+      <!-- UPDATES: Repositório -->
+      <section class="updates-section">
+        <div class="updates-header" onclick="toggleUpdates('repo')">
           <h3>Últimas Atualizações do Repositório</h3>
-          <span class="muted-link">Ver mais</span>
+          <span class="updates-toggle" id="toggle-repo">Ver mais</span>
         </div>
-        <div id="recentRepos" class="feed-list"></div>
-      </article>
-      <article id="cursos" class="card">
-        <div class="section-head section-head-compact">
+        <div class="updates-list" id="updates-repo">
+          <!-- Preenchido via JS -->
+        </div>
+      </section>
+
+      <!-- UPDATES: Cursos -->
+      <section class="updates-section">
+        <div class="updates-header" onclick="toggleUpdates('cursos')">
           <h3>Últimas Atualizações de Cursos</h3>
-          <span class="muted-link">Ver mais</span>
+          <span class="updates-toggle" id="toggle-cursos">Ver mais</span>
         </div>
-        <div id="recentCourses" class="feed-list"></div>
-      </article>
-    </section>
+        <div class="updates-list" id="updates-cursos">
+          <!-- Preenchido via JS -->
+        </div>
+      </section>
 
-    <section id="biblioteca" class="card search-panel">
-      <div class="section-head section-head-search">
-        <h3>Catálogo de conteúdos</h3>
-        <input id="portalSearch" class="search" type="search" placeholder="Buscar cursos ou plataformas...">
-      </div>
-      <div id="portalTags" class="chips"></div>
-    </section>
+      <!-- SEARCH -->
+      <section id="cursos" class="search-section">
+        <input type="text" class="search-input" id="searchInput" placeholder="Buscar cursos ou plataformas..." oninput="filterCards()">
+      </section>
 
-    <section id="projetos" class="repo-grid-section">
-      <div id="portalCatalog" class="portal-grid"></div>
-    </section>
+      <!-- CARDS GRID -->
+      <section class="cards-grid" id="cardsGrid">
+        <div class="card" data-title="JARVIS - Assistente IA Pessoal" data-tags="IA, Voz, Assistente, Agentes, Produtividade">
+          <div class="card-icon">🤖</div>
+          <h2 class="card-title">JARVIS — Assistente IA Pessoal com Voz</h2>
+          <p class="card-description">Assistente virtual inteligente com reconhecimento de voz contínuo, comandos por voz, alarmes, lembretes, integração com 50+ apps e provedores de IA. Funciona 100% no navegador.</p>
+          <div class="card-tags">
+            <span class="tag">IA</span><span class="tag">Voz</span><span class="tag">Assistente</span><span class="tag">Agentes</span><span class="tag">Produtividade</span>
+          </div>
+          <a href="https://gabrielcabral380.github.io/JARVIS/" class="card-link" target="_blank" rel="noopener noreferrer">Acessar plataforma →</a>
+        </div>
 
-    <section id="skills" class="card metrics-wrap">
-      <article class="metric-card">
-        <span class="metric-label">Fonte</span>
-        <strong>GitHub espelhado</strong>
-        <p>Dados derivados do acervo público já baixado e normalizado.</p>
-      </article>
-      <article id="trilhas" class="metric-card">
-        <span class="metric-label">Estrutura</span>
-        <strong>Portal + PRO</strong>
-        <p>Home no estilo catálogo e biblioteca pesquisável inspirada no ecossistema alvo.</p>
-      </article>
-      <article class="metric-card">
-        <span class="metric-label">Publicação</span>
-        <strong>GitHub Pages</strong>
-        <p>Projeto servido publicamente em uma URL própria do repositório CABRAL.</p>
-      </article>
-    </section>
+        <div class="card" data-title="Agente Hermes - Assistente IA Self-Hosted" data-tags="Agente IA, Self-Hosted, Docker, Telegram, Open Source, Hermes">
+          <div class="card-icon">🏛️</div>
+          <h2 class="card-title">Agente Hermes — Assistente IA Self-Hosted</h2>
+          <p class="card-description">Suba um agente IA na sua própria infra com Docker, Telegram e GitHub. 6 trilhas: Fundamentos, Setup, 5 Pilares, Segurança, Hermes vs Mercado e Escala Multi-Agente.</p>
+          <div class="card-tags">
+            <span class="tag">Agente IA</span><span class="tag">Self-Hosted</span><span class="tag">Docker</span><span class="tag">Telegram</span><span class="tag">Open Source</span><span class="tag">Hermes</span>
+          </div>
+          <a href="https://gabrielcabral380.github.io/agentehermes" class="card-link" target="_blank" rel="noopener noreferrer">Acessar plataforma →</a>
+        </div>
+
+        <div class="card" data-title="Ollama - IA Local" data-tags="Ollama, IA Local, LLM, Open Source, Privacidade">
+          <div class="card-icon">🦙</div>
+          <h2 class="card-title">Ollama — IA Local no seu PC</h2>
+          <p class="card-description">Rode modelos de IA localmente no seu computador. Sem API key, sem custos, sem enviar dados para terceiros. Suporta Llama, Mistral, Gemma e muito mais.</p>
+          <div class="card-tags">
+            <span class="tag">Ollama</span><span class="tag">IA Local</span><span class="tag">LLM</span><span class="tag">Open Source</span><span class="tag">Privacidade</span>
+          </div>
+          <a href="https://ollama.com" class="card-link" target="_blank" rel="noopener noreferrer">Acessar plataforma →</a>
+        </div>
+
+        <div class="card" data-title="Claude Code na Prática" data-tags="Claude Code, CLI, IA, Produtividade, Skills, Automação">
+          <div class="card-icon">📊</div>
+          <h2 class="card-title">Claude Code na Prática — do Zero ao Produto</h2>
+          <p class="card-description">Domine o Claude Code do zero ao avançado. 6 trilhas, atalhos, CLAUDE.md, workflows, prompts estratégicos, skills reutilizáveis e MCPs.</p>
+          <div class="card-tags">
+            <span class="tag">Claude Code</span><span class="tag">CLI</span><span class="tag">IA</span><span class="tag">Produtividade</span><span class="tag">Skills</span><span class="tag">Automação</span>
+          </div>
+          <a href="https://gabrielcabral380.github.io/claude-code" class="card-link" target="_blank" rel="noopener noreferrer">Acessar plataforma →</a>
+        </div>
+
+        <div class="card" data-title="Agentic Engineering" data-tags="IA, Agentes, Engenharia, LLMs, Multi-Agentes, Python">
+          <div class="card-icon">🤖</div>
+          <h2 class="card-title">Agentic Engineering Masterclass</h2>
+          <p class="card-description">Engenharia de Agentes — Masterclass completa com 6 trilhas, 42 módulos e 252+ tópicos em 21 semanas. Do básico à orquestração multi-agente enterprise.</p>
+          <div class="card-tags">
+            <span class="tag">IA</span><span class="tag">Agentes</span><span class="tag">Engenharia</span><span class="tag">LLMs</span><span class="tag">Multi-Agentes</span><span class="tag">Python</span>
+          </div>
+          <a href="https://gabrielcabral380.github.io/agentic" class="card-link" target="_blank" rel="noopener noreferrer">Acessar plataforma →</a>
+        </div>
+
+        <div class="card" data-title="AI FILMMAKING" data-tags="Filmmaking, Vídeo IA, Cinema, Seedance, Kling, Runway">
+          <div class="card-icon">🎬</div>
+          <h2 class="card-title">AI FILMMAKING — Do Conceito ao Filme Final</h2>
+          <p class="card-description">Curso completo de filmmaking com IA: pense como diretor, não como usuário de prompt. 7 trilhas, 31 módulos — roteiro, storyboard, geração de vídeo, efeitos visuais e edição.</p>
+          <div class="card-tags">
+            <span class="tag">Filmmaking</span><span class="tag">Vídeo IA</span><span class="tag">Cinema</span><span class="tag">Seedance</span><span class="tag">Kling</span><span class="tag">Runway</span>
+          </div>
+          <a href="https://gabrielcabral380.github.io/aifilmmaking" class="card-link" target="_blank" rel="noopener noreferrer">Acessar plataforma →</a>
+        </div>
+
+        <div class="card" data-title="Vibe Coding - AI Website Creation" data-tags="Vibe Coding, Web, IA, Sites, No Code">
+          <div class="card-icon">✨</div>
+          <h2 class="card-title">Vibe Coding — Crie Sites com IA</h2>
+          <p class="card-description">AI Website Creation Framework — Aprenda a criar websites profissionais usando IA com a metodologia Vibe Coding.</p>
+          <div class="card-tags">
+            <span class="tag">Vibe Coding</span><span class="tag">Web</span><span class="tag">IA</span><span class="tag">Sites</span><span class="tag">No Code</span>
+          </div>
+          <a href="https://gabrielcabral380.github.io/vibecoding" class="card-link" target="_blank" rel="noopener noreferrer">Acessar plataforma →</a>
+        </div>
+
+        <div class="card" data-title="2Cerebro - Segundo Cerebro com LLM" data-tags="LLM, Obsidian, Knowledge Management, RAG, IA, Produtividade">
+          <div class="card-icon">🧠</div>
+          <h2 class="card-title">2Cerebro — Segundo Cerebro com LLM + Obsidian</h2>
+          <p class="card-description">Construa um sistema de conhecimento persistente onde o LLM funciona como compilador. 3 trilhas, 12 módulos, ~8 horas. Cobre Obsidian vault, ingestão, grafos, RAG e multi-agentes.</p>
+          <div class="card-tags">
+            <span class="tag">LLM</span><span class="tag">Obsidian</span><span class="tag">Knowledge Management</span><span class="tag">RAG</span><span class="tag">IA</span><span class="tag">Produtividade</span>
+          </div>
+          <a href="https://gabrielcabral380.github.io/2cerebro" class="card-link" target="_blank" rel="noopener noreferrer">Acessar plataforma →</a>
+        </div>
+      </section>
+    </div>
   </main>
 
-  <footer class="site-footer">
-    <div class="container footer-inner">
-      <div class="footer-brand">
-        <span class="eyebrow">CABRAL.CLUB</span>
-        <p>Portal técnico + catálogo + espelho GitHub</p>
+  <!-- GITHUB SECTION -->
+  <section id="github" class="github-section">
+    <div class="container">
+      <h2>💻 GitHub — Repositórios</h2>
+      <p>Explore todos os repositórios do projeto CABRAL no GitHub</p>
+      <a href="https://github.com/GabrielCabral380" target="_blank" rel="noopener noreferrer" class="github-btn">
+        Ver GitHub →
+      </a>
+      <div id="githubRepos" class="github-repos">
+        <!-- Preenchido via JS -->
       </div>
-      <div class="footer-links">
-        <a href="https://github.com/GabrielCabral380" target="_blank" rel="noreferrer">GitHub</a>
-        <a href="pro.html">CABRAL.PRO</a>
-        <a href="https://gabrielcabral380.github.io/CABRAL/" target="_blank" rel="noreferrer">Portal</a>
+    </div>
+  </section>
+
+  <!-- TELEGRAM SECTION -->
+  <section id="telegram" class="social-section">
+    <div class="container">
+      <h2>💬 Telegram</h2>
+      <p>Participe da comunidade CABRAL no Telegram</p>
+      <a href="https://t.me/cabralclub" target="_blank" rel="noopener noreferrer" class="social-btn">Entrar no Telegram →</a>
+    </div>
+  </section>
+
+  <!-- SOCIAL SECTION -->
+  <section id="social" class="social-section">
+    <div class="container">
+      <h2>📱 Redes Sociais</h2>
+      <div class="social-links">
+        <a href="https://github.com/GabrielCabral380" target="_blank" rel="noopener noreferrer" class="social-btn">GitHub</a>
+        <a href="https://t.me/cabralclub" target="_blank" rel="noopener noreferrer" class="social-btn">Telegram</a>
+        <a href="https://youtube.com/@cabralclub" target="_blank" rel="noopener noreferrer" class="social-btn">YouTube</a>
+        <a href="https://instagram.com/cabralclub" target="_blank" rel="noopener noreferrer" class="social-btn">Instagram</a>
       </div>
-      <div class="footer-copy">© 2026 CABRAL.CLUB — Espelho público para fins educacionais</div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="container">
+      <p>© 2026 CABRAL.CLUB — Todos os direitos reservados</p>
+      <p class="footer-sub">Portal técnico + catálogo + espelho GitHub</p>
     </div>
   </footer>
 
