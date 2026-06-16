@@ -112,14 +112,15 @@ function renderUpdates() {
   cursosList.innerHTML = courseUpdates.map(mkItem).join('');
 }
 
-// ── OLLAMA SERVER (embedded) ──
-// O Ollama é servido pelo backend no repositório
-// URL padrão: mesma origem (produção) ou localhost:11434 (desenvolvimento)
+// ── OLLAMA SERVER (embedded no repositório) ──
+// O Ollama roda no backend (Render) via proxy /ollama/*
+// Sem localhost — tudo pelo servidor do repositório
 
 const OLLAMA_CONFIG = {
-  // Em produção, o backend serve o Ollama via proxy
-  // Em desenvolvimento, conecta direto
-  baseUrl: window.location.hostname === 'localhost' ? 'http://localhost:11434' : '/ollama',
+  // URL do chat endpoint (server.js proxy → Ollama)
+  chatUrl: '/api/chat',
+  // URL de status (server.js → Ollama /api/tags)
+  statusUrl: '/api/status',
   model: 'llama3',
   enabled: true
 };
@@ -127,31 +128,33 @@ const OLLAMA_CONFIG = {
 async function ollamaChat(message) {
   if (!OLLAMA_CONFIG.enabled) throw new Error('Ollama desativado');
 
-  const r = await fetch(OLLAMA_CONFIG.baseUrl.replace(/\/$/, '') + '/api/chat', {
+  const r = await fetch(OLLAMA_CONFIG.chatUrl, {
     method: 'POST',
     headers: { 'content-type': 'application/json' },
-    body: JSON.stringify({
-      model: OLLAMA_CONFIG.model,
-      messages: [{ role: 'user', content: message }],
-      stream: false
-    })
+    body: JSON.stringify({ message, model: OLLAMA_CONFIG.model })
   });
-  if (!r.ok) throw new Error('Ollama HTTP ' + r.status);
+  if (!r.ok) {
+    const err = await r.json().catch(() => ({}));
+    throw new Error(err.detail || 'Ollama HTTP ' + r.status);
+  }
   const d = await r.json();
-  return d.message?.content || 'Sem resposta.';
+  return d.response || 'Sem resposta.';
 }
 
 async function ollamaStatus() {
   try {
-    const r = await fetch(OLLAMA_CONFIG.baseUrl.replace(/\/$/, '') + '/api/tags', {
-      method: 'GET',
-      signal: AbortSignal.timeout(3000)
+    const r = await fetch(OLLAMA_CONFIG.statusUrl, {
+      signal: AbortSignal.timeout(5000)
     });
     if (!r.ok) return { ok: false };
     const d = await r.json();
-    return { ok: true, models: (d.models || []).map(m => m.name) };
+    return {
+      ok: d.ollama?.ok || false,
+      models: d.ollama?.models || [],
+      url: d.ollama?.url || 'unknown'
+    };
   } catch {
-    return { ok: false };
+    return { ok: false, models: [], url: 'offline' };
   }
 }
 

@@ -1,0 +1,33 @@
+# Render Blueprint — CABRAL.CLUB
+# Deploy automático: https://render.com/docs/blueprint-spec
+
+services:
+  # ── Web Service (Node.js + site estático) ──
+  - type: web
+    name: cabral-club
+    runtime: docker
+    repo: https://github.com/GabrielCabral380/CABRAL
+    branch: main
+    dockerfilePath: Dockerfile
+    plan: free
+    envVars:
+      - key: PORT
+        value: "3000"
+      - key: OLLAMA_URL
+        fromService:
+          type: web
+          name: cabral-ollama
+          property: host:11434
+    healthCheckPath: /api/status
+
+  # ── Ollama Service (Docker) ──
+  - type: web
+    name: cabral-ollama
+    runtime: docker
+    repo: https://github.com/GabrielCabral380/CABRAL
+    branch: main
+    dockerfilePath: Dockerfile.ollama
+    plan: free
+    envVars:
+      - key: PORT
+        value: "11434"
