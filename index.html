@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CABRAL.CLUB - Portal CABRAL</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body data-page="portal">
+  <div class="announce-bar">
+    <div class="container announce-inner">
+      <a href="https://t.me" target="_blank" rel="noreferrer">CABRAL.VIP Participe da Comunidade</a>
+      <span>Espelho público inspirado no ecossistema de cursos, biblioteca e GitHub técnico</span>
+    </div>
+  </div>
+
+  <header class="hero-shell container">
+    <div class="brand-lockup">
+      <div class="eyebrow">CABRAL.CLUB</div>
+      <h1>Portal CABRAL</h1>
+      <p class="hero-sub">Acesso centralizado aos seus cursos e plataformas</p>
+      <div class="hero-counters">
+        <span>👁 <strong id="viewCount">--</strong></span>
+        <span>👤 <strong id="memberCount">--</strong></span>
+      </div>
+    </div>
+    <nav class="main-nav">
+      <a href="#iniciantes">📘 Iniciantes</a>
+      <a href="#cursos">🎓 Cursos</a>
+      <a href="#vibecode">⚡ Vibe Code</a>
+      <a href="#skills">🧩 Skills</a>
+      <a href="#trilhas">🗺️ Trilhas</a>
+      <a href="#projetos">🚀 Projetos</a>
+      <a href="#github">💻 GitHub</a>
+      <a href="#telegram">💬 Telegram</a>
+      <a href="#social">📱 Social</a>
+    </nav>
+
+    <div class="hero-banner">
+      <img src="https://raw.githubusercontent.com/GabrielCabral380/CABRAL/main/data/hero.png" alt="Crie seu time. Lidere sua jornada." onerror="this.style.display='none'">
+      <p><strong>Comece sua jornada agora e compartilhe as trilhas especiais para iniciantes. É aqui que o futuro começa — e ele precisa de você.</strong></p>
+    </div>
+
+    <section class="hero-block card glow">
+      <div class="hero-copy">
+        <span class="badge">Portal técnico + catálogo + espelho GitHub</span>
+        <h2>Crie sua Equipe, Seu Time. Nós Ajudamos.</h2>
+        <p>O CABRAL Clube é o ponto de partida para quem quer se preparar para o futuro. Nosso foco é ajudar você a formar e desenvolver seu próprio time — pessoas com propósito, visão e capacidade de atuar em um mundo onde a Inteligência Artificial e a Robótica estarão em todos os lugares.</p>
+        <p>O CABRAL não é apenas uma plataforma de conhecimento — é uma comunidade viva, feita por pessoas que acreditam no poder do aprendizado, da inovação e da colaboração para transformar o futuro.</p>
+        <div class="cta-row">
+          <a class="btn primary" href="pro.html">Abrir CABRAL.PRO</a>
+          <a class="btn" href="https://github.com/GabrielCabral380" target="_blank" rel="noreferrer">Abrir GitHub</a>
+        </div>
+      </div>
+      <div class="hero-stats">
+        <div class="stat"><span id="repoCount">--</span><small>repositórios públicos</small></div>
+        <div class="stat"><span id="courseCount">--</span><small>cursos e projetos</small></div>
+        <div class="stat"><span id="langCount">--</span><small>linguagens</small></div>
+      </div>
+    </section>
+  </header>
+
+  <main class="container stack-xl">
+    <section id="iniciantes" class="section-stack">
+      <div class="section-title-row">
+        <h3>Trilha para Iniciantes</h3>
+        <span class="muted">Comece sua jornada com os cursos essenciais, nesta ordem recomendada</span>
+      </div>
+      <div id="beginnerTrack" class="track-grid"></div>
+      <p class="muted">Após completar esta trilha, explore outros cursos conforme seu interesse abaixo</p>
+    </section>
+
+    <section id="github" class="grid-2">
+      <article class="card">
+        <div class="section-head section-head-compact">
+          <h3>Últimas Atualizações do Repositório</h3>
+          <span class="muted-link">Ver mais</span>
+        </div>
+        <div id="recentRepos" class="feed-list"></div>
+      </article>
+      <article id="cursos" class="card">
+        <div class="section-head section-head-compact">
+          <h3>Últimas Atualizações de Cursos</h3>
+          <span class="muted-link">Ver mais</span>
+        </div>
+        <div id="recentCourses" class="feed-list"></div>
+      </article>
+    </section>
+
+    <section id="biblioteca" class="card search-panel">
+      <div class="section-head section-head-search">
+        <h3>Catálogo de conteúdos</h3>
+        <input id="portalSearch" class="search" type="search" placeholder="Buscar cursos ou plataformas...">
+      </div>
+      <div id="portalTags" class="chips"></div>
+    </section>
+
+    <section id="projetos" class="repo-grid-section">
+      <div id="portalCatalog" class="portal-grid"></div>
+    </section>
+
+    <section id="skills" class="card metrics-wrap">
+      <article class="metric-card">
+        <span class="metric-label">Fonte</span>
+        <strong>GitHub espelhado</strong>
+        <p>Dados derivados do acervo público já baixado e normalizado.</p>
+      </article>
+      <article id="trilhas" class="metric-card">
+        <span class="metric-label">Estrutura</span>
+        <strong>Portal + PRO</strong>
+        <p>Home no estilo catálogo e biblioteca pesquisável inspirada no ecossistema alvo.</p>
+      </article>
+      <article class="metric-card">
+        <span class="metric-label">Publicação</span>
+        <strong>GitHub Pages</strong>
+        <p>Projeto servido publicamente em uma URL própria do repositório CABRAL.</p>
+      </article>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div class="footer-brand">
+        <span class="eyebrow">CABRAL.CLUB</span>
+        <p>Portal técnico + catálogo + espelho GitHub</p>
+      </div>
+      <div class="footer-links">
+        <a href="https://github.com/GabrielCabral380" target="_blank" rel="noreferrer">GitHub</a>
+        <a href="pro.html">CABRAL.PRO</a>
+        <a href="https://gabrielcabral380.github.io/CABRAL/" target="_blank" rel="noreferrer">Portal</a>
+      </div>
+      <div class="footer-copy">© 2026 CABRAL.CLUB — Espelho público para fins educacionais</div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

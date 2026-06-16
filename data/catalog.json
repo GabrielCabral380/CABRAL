@@ -1,0 +1,157 @@
+[
+  {
+    "title": "Formato Curso V2",
+    "group": "CABRAL.CURSOS",
+    "date": "14/06/2026",
+    "description": "Curso com camada de aprendizagem, progresso, dúvidas, notas e temas trocáveis em páginas self-contained.",
+    "tags": [
+      "Curso",
+      "HTML",
+      "Aprendizagem",
+      "LocalStorage"
+    ],
+    "link": "https://github.com/GabrielCabral380/CABRAL"
+  },
+  {
+    "title": "O Manual Oculto da IA",
+    "group": "CABRAL.PROMPTS",
+    "date": "14/06/2026",
+    "description": "Curso sobre system prompts, disciplina operacional de agentes e padrões reais de instrução para IA.",
+    "tags": [
+      "Prompts",
+      "Agentes",
+      "IA",
+      "Curso"
+    ],
+    "link": "https://github.com/GabrielCabral380/CABRAL"
+  },
+  {
+    "title": "AI Strategy Factory",
+    "group": "CABRAL.CONSULT",
+    "date": "14/06/2026",
+    "description": "Estratégia de IA aplicada a negócios, consultoria e frameworks de transformação.",
+    "tags": [
+      "Consultoria",
+      "Estratégia",
+      "Negócios",
+      "IA"
+    ],
+    "link": "https://github.com/GabrielCabral380/CABRAL"
+  },
+  {
+    "title": "Subagentes",
+    "group": "CABRAL.AGENTES",
+    "date": "13/06/2026",
+    "description": "Curso focado em subagentes do Claude Code e Codex para trabalho distribuído.",
+    "tags": [
+      "Subagentes",
+      "Claude Code",
+      "Codex",
+      "Automação"
+    ],
+    "link": "https://github.com/GabrielCabral380/CABRAL"
+  },
+  {
+    "title": "2Cerebro",
+    "group": "CABRAL.IA",
+    "date": "10/06/2026",
+    "description": "Segundo cérebro com LLM + Obsidian para gestão de conhecimento e produtividade.",
+    "tags": [
+      "LLM",
+      "Obsidian",
+      "RAG",
+      "Produtividade"
+    ],
+    "link": "https://github.com/GabrielCabral380/CABRAL"
+  },
+  {
+    "title": "Agentic OS",
+    "group": "CABRAL.AGENTES",
+    "date": "10/06/2026",
+    "description": "Sistema operacional do trabalho com IA, orquestração, skills, hooks e agentes.",
+    "tags": [
+      "Agentic OS",
+      "Orquestração",
+      "Skills",
+      "Hooks"
+    ],
+    "link": "https://github.com/GabrielCabral380/CABRAL"
+  },
+  {
+    "title": "Agente Hermes",
+    "group": "CABRAL.DEV",
+    "date": "09/06/2026",
+    "description": "Assistente IA self-hosted com foco em infra própria, Telegram, Docker e automação.",
+    "tags": [
+      "Hermes",
+      "Self-Hosted",
+      "Docker",
+      "Telegram"
+    ],
+    "link": "https://github.com/GabrielCabral380/CABRAL"
+  },
+  {
+    "title": "AgenteJAX",
+    "group": "CABRAL.AGENTES",
+    "date": "09/06/2026",
+    "description": "Construção de agente pessoal com TypeScript, memória e operação prática.",
+    "tags": [
+      "Agente",
+      "TypeScript",
+      "Memória",
+      "Produção"
+    ],
+    "link": "https://github.com/GabrielCabral380/CABRAL"
+  },
+  {
+    "title": "Prompts Prontos",
+    "group": "CABRAL.PROMPTS",
+    "date": "14/06/2026",
+    "description": "Coleção de system prompts copiáveis para uso operacional.",
+    "tags": [
+      "Prompts",
+      "Templates",
+      "Copiável"
+    ],
+    "link": "https://github.com/GabrielCabral380/CABRAL"
+  },
+  {
+    "title": "VLA Mastery",
+    "group": "CABRAL.ROBOT",
+    "date": "02/06/2026",
+    "description": "Curso avançado de Vision-Language-Action para IA incorporada e robótica.",
+    "tags": [
+      "VLA",
+      "Robótica",
+      "Visão",
+      "IA incorporada"
+    ],
+    "link": "https://github.com/GabrielCabral380/CABRAL"
+  },
+  {
+    "title": "Claude Design",
+    "group": "CABRAL.CCODE",
+    "date": "01/06/2026",
+    "description": "Curso voltado a design com Claude e construção de páginas premium.",
+    "tags": [
+      "Claude",
+      "Design",
+      "Frontend",
+      "Curso"
+    ],
+    "link": "https://github.com/GabrielCabral380/CABRAL"
+  },
+  {
+    "title": "Skill Design",
+    "group": "CABRAL.DEV",
+    "date": "26/05/2026",
+    "description": "Catálogo de skills de design, frontend e produção visual aplicada.",
+    "tags": [
+      "Skills",
+      "Design",
+      "UI",
+      "Frontend"
+    ],
+    "link": "https://github.com/GabrielCabral380/CABRAL"
+  }
+]

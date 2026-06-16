@@ -1,0 +1,2987 @@
+{
+  "profile": "GabrielCabral380/CABRAL",
+  "total_repos": 298,
+  "repos": [
+    {
+      "name": "10cara-design",
+      "description": "Nano Banana 2 — Character Design Styles | CABRAL.CLUB: 10 prompts que movem um personagem por 10 mundos visuais (Ref 1 trava identidade, Ref 2 só styling). Landing + trilha com 3 modulos.",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "master",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-11T02:40:14Z",
+      "language": "HTML",
+      "stars": 2
+    },
+    {
+      "name": "2cerebro",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "master",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-13T14:33:20Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "3ddrive-explorer",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-12T01:44:30Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "5niveiscc",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-13T16:03:13Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "6chapeus",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-21T17:49:27Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "6pilarccb",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-08T22:52:06Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "6pilarccfull",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-02T23:44:47Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "8020",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-02T23:17:48Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "aclima",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-31T07:42:00Z",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "agent-browser",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-01-20T00:10:37Z",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "agentehermes",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-10T14:50:40Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "agentejax",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-04T03:54:01Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "agentic",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-03T19:50:00Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "agentic-workflow",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-09T05:42:48Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "cabral",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-07T01:14:31Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "agenticos",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-15T16:45:28Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "AI-CONSULT",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-14T12:14:34Z",
+      "language": "Python",
+      "stars": 1
+    },
+    {
+      "name": "ai-filmaking-p1",
+      "description": "AI Filmmaking — Parte 1 · caderno de estudo editorial (CABRAL.CLUB, formato-curso v3)",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-14T22:54:22Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "ai-strategy-factory",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-29T02:19:04Z",
+      "language": "Python",
+      "stars": 1
+    },
+    {
+      "name": "aiengenharia",
+      "description": "Pirâmide da IA — Engenharia de Conhecimento da IA (curso CABRAL.CLUB)",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-11T16:13:32Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "aiestrategia",
+      "description": "Curso prático: construa a sua Fábrica de Estratégia de IA e vire consultor de IA. Formato CABRAL.CLUB.",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-14T12:17:00Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "aifilmmaking",
+      "description": "🎬 AI FILMMAKING — curso completo de filmmaking com IA (formato CABRAL.CLUB)",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-08T23:57:47Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "aiosagi",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-24T23:24:44Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "ais-os",
+      "description": "AIS-OS — Seu AI Operating System no Claude Code | Curso CABRAL.CLUB: frameworks 3 Ms + 4 Cs e as skills /onboard /audit /level-up | 3 trilhas, 11 módulos, ~70 tópicos",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-04T00:10:50Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "aisf",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-24T19:36:30Z",
+      "language": "Python",
+      "stars": 1
+    },
+    {
+      "name": "AIWCF",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-01-21T08:06:03Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "ajentejax",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-02T21:30:44Z",
+      "language": null,
+      "stars": 0
+    },
+    {
+      "name": "akarpathy-skill",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-26T04:19:35Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "ale",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-01T20:32:08Z",
+      "language": null,
+      "stars": 0
+    },
+    {
+      "name": "animabook",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-11T05:17:09Z",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "animabooksf",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-08T20:01:26Z",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "antidote",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-14T12:04:43Z",
+      "language": "HTML",
+      "stars": 2
+    },
+    {
+      "name": "antidotex",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-15T13:41:51Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "APIPXINTER",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-13T02:03:54Z",
+      "language": "JavaScript",
+      "stars": 1
+    },
+    {
+      "name": "arqdev2030",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-21T07:05:25Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "ATIA",
+      "description": "ATIA - Oportunidades Digitais com IA",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-12T08:32:05Z",
+      "language": "HTML",
+      "stars": 2
+    },
+    {
+      "name": "aula",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-13T02:04:19Z",
+      "language": null,
+      "stars": 1
+    },
+    {
+      "name": "AUTOMACAO2026",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-20T10:56:15Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "bela360",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-15T18:30:33Z",
+      "language": "TypeScript",
+      "stars": 4
+    },
+    {
+      "name": "bet360",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-01-20T05:16:26Z",
+      "language": null,
+      "stars": 0
+    },
+    {
+      "name": "BettaFish",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-24T19:37:07Z",
+      "language": "Python",
+      "stars": 1
+    },
+    {
+      "name": "BMAD-Academy",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-02T23:41:40Z",
+      "language": "JavaScript",
+      "stars": 15
+    },
+    {
+      "name": "bs-benchmark",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-14T05:04:16Z",
+      "language": "HTML",
+      "stars": 4
+    },
+    {
+      "name": "caio",
+      "description": "Curso: Profissional de IA 2030 — Chief AI Officer (formato CABRAL.CLUB)",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-18T21:35:25Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "cca-q1",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-23T03:34:09Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "cca-q2",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-23T04:50:43Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "cccowork",
+      "description": "Claude Cowork — Curso: Equipe de Marketing de US0k/mês (CABRAL.CLUB)",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-18T23:47:07Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "cccoworkexec",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-19T00:23:57Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "cccoworkfull",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-19T04:28:16Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "ccfast32",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-30T07:22:45Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "ccguide2026",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-02-03T17:25:45Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "cchyperframes",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-20T01:55:13Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "ccjagenticos",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-11T19:31:40Z",
+      "language": "TypeScript",
+      "stars": 1
+    },
+    {
+      "name": "ccmastermemory",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-30T07:22:53Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "ccopen",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "master",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-30T07:22:38Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "cctop",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-21T21:06:38Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "cctop12",
+      "description": "Claude Code Tier S — os 12 recursos que mudam seu dia. Tier list D→S com o Top 12 em contagem regressiva. CABRAL.CLUB",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-07T01:13:23Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "ccxcx",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-18T20:59:44Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "chatterbox",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "master",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-02-26T01:20:06Z",
+      "language": "Python",
+      "stars": 1
+    },
+    {
+      "name": "claude-code",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-08T21:30:43Z",
+      "language": "TypeScript",
+      "stars": 2
+    },
+    {
+      "name": "claude-code-kuber",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-02T23:44:11Z",
+      "language": "TypeScript",
+      "stars": 2
+    },
+    {
+      "name": "claude-remotion-motion",
+      "description": "Curso PT-BR: Motion graphics com código — Claude Code + Remotion + GSAP/D3/Three.js/Lottie",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "master",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-10T17:42:17Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "claude-seo",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-12T05:20:38Z",
+      "language": "Python",
+      "stars": 0
+    },
+    {
+      "name": "claudebot",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-09T01:54:05Z",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "claudeclaw",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-02T23:44:23Z",
+      "language": null,
+      "stars": 1
+    },
+    {
+      "name": "claudecode-estrutura",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-01T13:17:56Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "claudecode-manual",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-03T03:02:49Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "claudedesign",
+      "description": "Curso completo (zero ao expert) sobre Claude Design (claude.ai/design) no formato CABRAL.CLUB — 5 trilhas, ~35 módulos",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-04T03:34:05Z",
+      "language": "HTML",
+      "stars": 4
+    },
+    {
+      "name": "claudex",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-30T07:22:31Z",
+      "language": "Shell",
+      "stars": 1
+    },
+    {
+      "name": "claw-code",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-02T23:44:05Z",
+      "language": "Rust",
+      "stars": 3
+    },
+    {
+      "name": "CLI-x",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-23T09:45:01Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "Codex",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-13T02:04:08Z",
+      "language": null,
+      "stars": 1
+    },
+    {
+      "name": "colebuilder",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-02-26T20:36:21Z",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "consultoria2k",
+      "description": "Curso Consultor de IA — Do Rótulo ao Resultado | CABRAL.CLUB",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-04T00:11:38Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "curso-iamasters-os",
+      "description": "Curso completo iAmasters OS · formato CABRAL.CLUB · 3 trilhas · 9 módulos",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-17T21:31:15Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "curso-od",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-06T00:36:29Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "dash",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-01-02T13:23:57Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "DBA-FO",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-17T19:29:49Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "dclima",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-01-02T05:45:22Z",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "deepclaudex",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-06T00:36:47Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "deepsearchagent",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-17T02:31:58Z",
+      "language": "Python",
+      "stars": 2
+    },
+    {
+      "name": "deer-flow",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-15T01:15:29Z",
+      "language": "Python",
+      "stars": 0
+    },
+    {
+      "name": "deerflow",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-14T22:17:54Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "dev2k6",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-20T18:43:12Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "diretor-animacao",
+      "description": "O Diretor de Animação — imagens prontas + narração → filme profissional sem IA generativa de vídeo (render determinístico via pixflow)",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "master",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-11T11:17:21Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "docker-clawdbot",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-02T23:42:04Z",
+      "language": "Shell",
+      "stars": 8
+    },
+    {
+      "name": "docker-moltbot",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-02-14T01:25:35Z",
+      "language": "Shell",
+      "stars": 1
+    },
+    {
+      "name": "docker-moltbot-open",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-01-30T16:55:43Z",
+      "language": "Shell",
+      "stars": 1
+    },
+    {
+      "name": "docker-openclaw",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-06T01:25:33Z",
+      "language": "HTML",
+      "stars": 2
+    },
+    {
+      "name": "docker-openclaw-ollama",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-02-01T07:11:27Z",
+      "language": "Shell",
+      "stars": 0
+    },
+    {
+      "name": "DocumentosMarcas",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-13T02:04:17Z",
+      "language": "Python",
+      "stars": 1
+    },
+    {
+      "name": "dublar",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-13T02:03:29Z",
+      "language": "Python",
+      "stars": 1
+    },
+    {
+      "name": "DublarV4",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-02-10T08:33:45Z",
+      "language": "Python",
+      "stars": 1
+    },
+    {
+      "name": "dublarv5",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-14T12:07:10Z",
+      "language": "Python",
+      "stars": 3
+    },
+    {
+      "name": "EAI",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-10T08:38:11Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "ebook-maker",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-24T19:32:12Z",
+      "language": "JavaScript",
+      "stars": 3
+    },
+    {
+      "name": "engdadosai",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-14T08:23:04Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "enxamesagentes",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-19T11:26:52Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "ERPsb",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-02T23:39:28Z",
+      "language": "TypeScript",
+      "stars": 3
+    },
+    {
+      "name": "fae-ai",
+      "description": "Formação em Automação Estratégica com IA — curso público gratuito do CABRAL.CLUB (de 10h para 10s)",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-04T00:06:52Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "FAntigravity",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-01-23T01:28:13Z",
+      "language": null,
+      "stars": 0
+    },
+    {
+      "name": "FDB",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-14T15:22:54Z",
+      "language": "HTML",
+      "stars": 2
+    },
+    {
+      "name": "FDF",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-12T15:41:00Z",
+      "language": "Shell",
+      "stars": 1
+    },
+    {
+      "name": "FEA",
+      "description": "Formação de Engenharia de Agentes de IA",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-13T02:03:42Z",
+      "language": null,
+      "stars": 3
+    },
+    {
+      "name": "FEA-IA",
+      "description": "Formação de Engenheiros de Agentes de Inteligência Artificial",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-14T12:34:43Z",
+      "language": "HTML",
+      "stars": 20
+    },
+    {
+      "name": "FEC",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-03T06:04:12Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "FEI",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-13T02:03:55Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "FEP",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-07T03:42:43Z",
+      "language": "HTML",
+      "stars": 9
+    },
+    {
+      "name": "FEP2",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-07T03:49:10Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "FETD",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-13T02:04:00Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "FGMD",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-01-11T09:18:56Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "FIA2026",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-12T08:57:33Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "FinancialSaaS",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-02-04T13:49:44Z",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "fis360",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-01-06T20:19:21Z",
+      "language": null,
+      "stars": 0
+    },
+    {
+      "name": "fontefilm",
+      "description": "Ferramenta de direcao de cinema com IA para filmes em quadrinhos",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-10T17:39:31Z",
+      "language": "HTML",
+      "stars": 2
+    },
+    {
+      "name": "formato-curso-v2",
+      "description": "Curso CABRAL.CLUB com camada de aprendizagem (progresso, dúvidas, anotações, temas) — self-contained",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-14T19:48:03Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "fpfilm1",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-07T04:09:01Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "FTD",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-13T02:04:07Z",
+      "language": "HTML",
+      "stars": 2
+    },
+    {
+      "name": "FTH",
+      "description": "Formação para Treinamento de Humanoides",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-13T02:03:36Z",
+      "language": "SCSS",
+      "stars": 2
+    },
+    {
+      "name": "get-shit-done",
+      "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-02T23:43:56Z",
+      "language": null,
+      "stars": 2
+    },
+    {
+      "name": "GIPM",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-01-17T03:54:01Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "github",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-13T02:03:52Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "gravityclaw",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-02-26T01:20:08Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "hack7meta",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-26T16:51:41Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "hermes21c",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "master",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-01T05:31:54Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "hermesagent",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-24T22:51:38Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "HG1",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-13T03:35:50Z",
+      "language": "TypeScript",
+      "stars": 2
+    },
+    {
+      "name": "hnotebooklm",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-18T22:00:34Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "hola",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-01-26T01:37:31Z",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "hosp360",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-07T06:16:10Z",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "https-github.com-inematds-PortalNovo",
+      "description": "testes",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-01-02T01:10:51Z",
+      "language": "TypeScript",
+      "stars": 1
+    },
+    {
+      "name": "hyperframes",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-30T07:22:50Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "IAcao",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-28T06:13:54Z",
+      "language": "GDScript",
+      "stars": 0
+    },
+    {
+      "name": "iamasters-os",
+      "description": "Sistema operativo agéntico para operadores de IA. Sinapsis v4.5 (engine de memoria) + capa OS (brand context, agent context, skills curadas, multi-cliente). ",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-04T21:52:08Z",
+      "language": "Shell",
+      "stars": 1
+    },
+    {
+      "name": "IAMed",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-12T21:30:09Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "iccmonit",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-22T16:08:39Z",
+      "language": "Python",
+      "stars": 3
+    },
+    {
+      "name": "iclaudex",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-06T01:06:20Z",
+      "language": "Shell",
+      "stars": 4
+    },
+    {
+      "name": "imersao",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-30T11:27:40Z",
+      "language": null,
+      "stars": 0
+    },
+    {
+      "name": "imersao2026Abril",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-30T07:22:51Z",
+      "language": null,
+      "stars": 1
+    },
+    {
+      "name": "imersaovc",
+      "description": "Landing promocional da Imersão Vibe Coding — 3 versões, checkout via Asaas",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "master",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-04T06:09:12Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "imkt4",
+      "description": "Ainda desenvolvimenot otimizando ",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-06T20:21:15Z",
+      "language": "JavaScript",
+      "stars": 1
+    },
+    {
+      "name": "imkt5",
+      "description": "Ainda em Desenvolvimento",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "scaffold-initial",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-01T22:43:43Z",
+      "language": "Python",
+      "stars": 1
+    },
+    {
+      "name": "imob360",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-01-06T11:23:32Z",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "inemaacademia",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-06T06:44:37Z",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "inemaimg",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-17T05:08:45Z",
+      "language": "Python",
+      "stars": 0
+    },
+    {
+      "name": "inemaref",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "master",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-14T03:56:20Z",
+      "language": "Python",
+      "stars": 1
+    },
+    {
+      "name": "inemavox",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-04T03:33:19Z",
+      "language": "Python",
+      "stars": 10
+    },
+    {
+      "name": "inemavox2",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-16T01:21:52Z",
+      "language": "Python",
+      "stars": 1
+    },
+    {
+      "name": "inemavox3",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-09T04:27:50Z",
+      "language": null,
+      "stars": 0
+    },
+    {
+      "name": "intelecto",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-06T23:45:06Z",
+      "language": "HTML",
+      "stars": 4
+    },
+    {
+      "name": "intelecto-curso",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-30T07:22:41Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "intelecto-testes",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-26T03:12:10Z",
+      "language": "Python",
+      "stars": 0
+    },
+    {
+      "name": "itreiner",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-24T17:13:17Z",
+      "language": null,
+      "stars": 0
+    },
+    {
+      "name": "jccode23",
+      "description": "Curso Claude Code — Do Zero ao Projeto (CABRAL.CLUB)",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-04T00:08:25Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "jonespaella",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-02-20T00:44:30Z",
+      "language": "CSS",
+      "stars": 0
+    },
+    {
+      "name": "lk_agente_v3",
+      "description": "Agente de voz inteligente com LiveKit em Portugues",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-02T23:42:12Z",
+      "language": "Python",
+      "stars": 7
+    },
+    {
+      "name": "logfree",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-04T03:42:50Z",
+      "language": "Python",
+      "stars": 0
+    },
+    {
+      "name": "MAKE",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-01-03T21:56:51Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "makeclaudex",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-30T07:22:26Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "manual-oculto-ia",
+      "description": "Curso CABRAL.CLUB: O Manual Oculto da IA — system prompts e disciplina de agentes",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-14T19:24:06Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "mapacliente",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-24T06:50:07Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "mastercodex",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-01T14:47:43Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "MCP",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-06T00:36:13Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "mcp-notebooklm",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-01T03:00:05Z",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "mcp-video",
+      "description": "Guardrailed video editing MCP server for AI agents. FFmpeg, Hyperframes, repurposing tools, Python client, and CLI. Local, fast, free.",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "master",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-10T17:42:30Z",
+      "language": null,
+      "stars": 2
+    },
+    {
+      "name": "mdd",
+      "description": "MDD — Mestre de Direção Dinâmica: skill do Claude Code que transforma qualquer assunto em pacote completo de direção de vídeo (storyboard + prompts)",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "master",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-10T17:39:47Z",
+      "language": "HTML",
+      "stars": 3
+    },
+    {
+      "name": "MegaRAG",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-24T19:33:04Z",
+      "language": "TypeScript",
+      "stars": 1
+    },
+    {
+      "name": "mentesbrilhantes1",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-03T08:39:59Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "mirofish",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-21T04:32:25Z",
+      "language": "Python",
+      "stars": 2
+    },
+    {
+      "name": "mirofish-pt",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-20T19:36:28Z",
+      "language": "Python",
+      "stars": 0
+    },
+    {
+      "name": "mirofishcurso",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-19T18:29:09Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "mkblogs",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-01T00:40:04Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "mkbook",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-25T03:16:13Z",
+      "language": "Shell",
+      "stars": 0
+    },
+    {
+      "name": "mkebook",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-24T23:04:58Z",
+      "language": null,
+      "stars": 0
+    },
+    {
+      "name": "mkivideos",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-13T04:39:15Z",
+      "language": "TypeScript",
+      "stars": 7
+    },
+    {
+      "name": "mktfv3",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-30T07:22:47Z",
+      "language": null,
+      "stars": 1
+    },
+    {
+      "name": "mkvideos",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-20T08:21:46Z",
+      "language": "JavaScript",
+      "stars": 1
+    },
+    {
+      "name": "ML_book",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "dev",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-01-09T06:34:16Z",
+      "language": "JavaScript",
+      "stars": 0
+    },
+    {
+      "name": "mp-skill",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-26T03:57:03Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "MSFilesA",
+      "description": "nm101 - Claude Skills - Files MS Automation",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "master",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-17T16:08:15Z",
+      "language": "Python",
+      "stars": 0
+    },
+    {
+      "name": "MSFilesAStd",
+      "description": "Roda Independente sem o Claude, tem configurar as APIs",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "master",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-18T23:31:40Z",
+      "language": "Python",
+      "stars": 1
+    },
+    {
+      "name": "multiagentes",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-06T01:03:16Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "my-inema",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "master",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-10T03:49:31Z",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "myqi",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-25T02:43:49Z",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "n8n-ps",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-14T04:24:09Z",
+      "language": null,
+      "stars": 0
+    },
+    {
+      "name": "N8Nb",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-01-04T06:36:32Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "N8Np",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-01-03T03:27:42Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "NanoBanana",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-01-02T02:05:10Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "nanobot",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-02-20T02:43:00Z",
+      "language": "Python",
+      "stars": 1
+    },
+    {
+      "name": "NCIAFlux",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-01-26T16:56:58Z",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "newagenticos",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-18T23:54:32Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "nm82",
+      "description": "Sistema de Padrinhos e Afiliados CABRAL.VIP",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "master",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-04T03:33:29Z",
+      "language": "TypeScript",
+      "stars": 4
+    },
+    {
+      "name": "notebooklm",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-02-26T01:19:55Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "novoprojetovibecode",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-04T01:04:17Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "nutri360",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-01-08T01:40:35Z",
+      "language": null,
+      "stars": 0
+    },
+    {
+      "name": "occio-agentes",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-22T03:59:57Z",
+      "language": null,
+      "stars": 0
+    },
+    {
+      "name": "open-design",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-07T01:12:13Z",
+      "language": "TypeScript",
+      "stars": 7
+    },
+    {
+      "name": "openhuman",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-26T00:16:11Z",
+      "language": "Rust",
+      "stars": 0
+    },
+    {
+      "name": "openpcbot",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-08T07:51:19Z",
+      "language": "TypeScript",
+      "stars": 1
+    },
+    {
+      "name": "opus47",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-20T17:29:53Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "opus48",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-31T02:37:11Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "paperclip",
+      "description": "Open-source orchestration for zero-human companies",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "master",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-29T19:20:26Z",
+      "language": "TypeScript",
+      "stars": 1
+    },
+    {
+      "name": "pet360",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-14T20:07:52Z",
+      "language": "TypeScript",
+      "stars": 3
+    },
+    {
+      "name": "pha2030",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-20T01:41:48Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "pha2030-aula",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-20T15:35:55Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "pixflow",
+      "description": "Imagens estáticas → filmes cinematográficos (parallax 2.5D + efeitos) em código aberto, sem geradores de vídeo IA",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-11T06:06:56Z",
+      "language": "JavaScript",
+      "stars": 3
+    },
+    {
+      "name": "Playbook",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-13T02:04:12Z",
+      "language": "JavaScript",
+      "stars": 1
+    },
+    {
+      "name": "Playbook-IA",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-19T03:20:21Z",
+      "language": "JavaScript",
+      "stars": 1
+    },
+    {
+      "name": "pollyskill",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-23T23:57:00Z",
+      "language": "TypeScript",
+      "stars": 1
+    },
+    {
+      "name": "pollyskills",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-24T06:13:58Z",
+      "language": null,
+      "stars": 0
+    },
+    {
+      "name": "polyskills",
+      "description": "Curso completo sobre Claude Code e Codex (cross-runtime skills)",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-04T00:12:03Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "PortalNovo",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "master",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-13T02:04:03Z",
+      "language": null,
+      "stars": 1
+    },
+    {
+      "name": "portalnovo1",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-13T02:04:03Z",
+      "language": null,
+      "stars": 1
+    },
+    {
+      "name": "power-design",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-06T01:02:00Z",
+      "language": "HTML",
+      "stars": 2
+    },
+    {
+      "name": "pp-cli",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-13T19:28:27Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "prof2030",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-08T22:58:24Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "prof2031CAIP",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-12T00:57:22Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "profeale",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-01T20:45:33Z",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "profissional2027",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-24T06:50:49Z",
+      "language": null,
+      "stars": 0
+    },
+    {
+      "name": "profissional2027x",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-24T22:38:18Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "promptfilmes",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-17T19:17:42Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "promptprof",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "master",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-10T17:40:11Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "prompts",
+      "description": "Formação de Engenheiros de Prompts",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-07T03:48:19Z",
+      "language": "HTML",
+      "stars": 3
+    },
+    {
+      "name": "prompts-prontos",
+      "description": "Prompts Prontos — 13 system prompts copiáveis (CABRAL.CLUB)",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-14T19:16:59Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "rAgentic-cs",
+      "description": "remote-agentic-coding-system",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-13T02:04:25Z",
+      "language": "TypeScript",
+      "stars": 1
+    },
+    {
+      "name": "redessociais",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-26T03:33:05Z",
+      "language": "JavaScript",
+      "stars": 3
+    },
+    {
+      "name": "redessociais2026",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-14T11:57:16Z",
+      "language": "TypeScript",
+      "stars": 3
+    },
+    {
+      "name": "remotion",
+      "description": "🎥      Make videos programmatically with React",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-02-03T04:49:09Z",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "remotion-skills",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-01-22T08:25:38Z",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "remotion-templates",
+      "description": "81 templates Remotion + curso gratuito PT-BR (CABRAL.CLUB) de vídeo programático com React",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-10T17:36:12Z",
+      "language": "HTML",
+      "stars": 3
+    },
+    {
+      "name": "remotion-test",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-12T04:42:13Z",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "RF360",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-21T23:48:17Z",
+      "language": "TypeScript",
+      "stars": 2
+    },
+    {
+      "name": "robot",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "master",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-13T02:03:53Z",
+      "language": "Python",
+      "stars": 1
+    },
+    {
+      "name": "RotaX1",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-24T19:30:41Z",
+      "language": "TypeScript",
+      "stars": 2
+    },
+    {
+      "name": "ruflo",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-01T03:52:49Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "second-brain",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-06T01:28:28Z",
+      "language": "Python",
+      "stars": 1
+    },
+    {
+      "name": "seedance2",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-07T04:08:14Z",
+      "language": "HTML",
+      "stars": 2
+    },
+    {
+      "name": "seg360",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-24T19:28:17Z",
+      "language": "TypeScript",
+      "stars": 1
+    },
+    {
+      "name": "segrobot",
+      "description": "Requalificação Humana para Ambientes Robotizados — 3 trilhas, 18 módulos",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-07T01:13:38Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "SHIA",
+      "description": "Super Humanos Inteligência Aumentada",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-28T02:07:15Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "sis",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "master",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-01-21T07:43:17Z",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "skill-design",
+      "description": "Curso CABRAL.CLUB: catálogo dos 16 skills do Claude Code pra criar e melhorar páginas (frontend-design, impeccable, HyperFrames, Playwright, vídeo e mais)",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-04T00:11:21Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "skill-hyperframes-videos",
+      "description": "Curso HyperFrames (formato CABRAL.CLUB): criar vídeos explicativos HTML→MP4 com Claude Code + a Skill video-explicativo",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-01T11:39:50Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "skill-video-demonstrativo",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "master",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-08T23:32:00Z",
+      "language": "HTML",
+      "stars": 3
+    },
+    {
+      "name": "skill-video-explicativo",
+      "description": "Curso CABRAL.CLUB + Skill video-explicativo (HTML→MP4 com Claude Code & HyperFrames) — navegável e em .zip",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "master",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-10T17:42:25Z",
+      "language": "HTML",
+      "stars": 4
+    },
+    {
+      "name": "skill-video-plan-editor",
+      "description": "Skill que transforma assunto/link em plano profissional de edição de vídeo (renderer-agnóstico) + render opcional via FFmpeg/Auto-Editor/HyperFrames",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-10T17:38:29Z",
+      "language": "Python",
+      "stars": 5
+    },
+    {
+      "name": "skill-videoprodutor",
+      "description": "Skill videoprodutor — orquestra link/assunto → vídeo profissional (3 camadas), 16:9+9:16, local; imagem flux2-klein com fallback SVG.",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "master",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-12T15:32:51Z",
+      "language": "JavaScript",
+      "stars": 3
+    },
+    {
+      "name": "skillmanager3x",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-04T10:22:51Z",
+      "language": null,
+      "stars": 3
+    },
+    {
+      "name": "skillmktv4",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-30T07:22:49Z",
+      "language": "Shell",
+      "stars": 1
+    },
+    {
+      "name": "skills",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-02-14T14:58:38Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "skills-craft",
+      "description": "Curso data-driven sobre Agent Skills (formato CABRAL.CLUB) + dataset de 39k skills do skills.sh",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-04T00:09:43Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "skills-curso",
+      "description": "Curso completo Skills CLI - do zero ao expert em agent skills",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-07T03:54:15Z",
+      "language": "HTML",
+      "stars": 4
+    },
+    {
+      "name": "skills-premium",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-14T06:34:33Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "skillx",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-06T02:07:19Z",
+      "language": "Python",
+      "stars": 0
+    },
+    {
+      "name": "skyreelsv3",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-14T12:11:40Z",
+      "language": "Python",
+      "stars": 2
+    },
+    {
+      "name": "subagentes",
+      "description": "Curso CABRAL.CLUB sobre subagentes do Claude Code (e Codex)",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-14T11:15:21Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "superpowers",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-01T21:55:04Z",
+      "language": "HTML",
+      "stars": 2
+    },
+    {
+      "name": "SuperProf",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-01-20T04:00:58Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "superskills-karpathy",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-02T23:42:55Z",
+      "language": "HTML",
+      "stars": 2
+    },
+    {
+      "name": "system_prompts_leaks",
+      "description": "System prompts reais (Claude, GPT, Gemini, Cursor...) + curso Padrões de System Prompts (CABRAL.CLUB)",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-11T22:11:43Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "TAM",
+      "description": "Tele Atendimento em Medicina ",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-13T02:03:35Z",
+      "language": "TypeScript",
+      "stars": 2
+    },
+    {
+      "name": "TDS",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-13T02:04:11Z",
+      "language": null,
+      "stars": 2
+    },
+    {
+      "name": "testes",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-13T02:03:58Z",
+      "language": null,
+      "stars": 1
+    },
+    {
+      "name": "testes2",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-13T02:04:23Z",
+      "language": null,
+      "stars": 1
+    },
+    {
+      "name": "tiktokshop",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-15T14:50:48Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "timesmkt",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-27T05:45:14Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "timesmkt2",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-04-01T04:15:57Z",
+      "language": "JavaScript",
+      "stars": 2
+    },
+    {
+      "name": "timesmkt3",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-03T10:57:15Z",
+      "language": "JavaScript",
+      "stars": 10
+    },
+    {
+      "name": "tktk-sync",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-18T11:02:03Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "TLGrupos",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-13T02:04:20Z",
+      "language": "TypeScript",
+      "stars": 1
+    },
+    {
+      "name": "tMusic",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-13T02:03:44Z",
+      "language": "TypeScript",
+      "stars": 2
+    },
+    {
+      "name": "tmusicx",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-13T02:03:59Z",
+      "language": null,
+      "stars": 1
+    },
+    {
+      "name": "token-dashboard",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-23T23:56:59Z",
+      "language": "Python",
+      "stars": 1
+    },
+    {
+      "name": "triad",
+      "description": "TRIAD — Automação de IA Multi-Modelo com Hermes Agent",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-18T02:47:08Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "u-any",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-26T20:39:27Z",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "udpc",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-01-06T02:56:36Z",
+      "language": "Python",
+      "stars": 0
+    },
+    {
+      "name": "vb-imersao",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-10T19:46:33Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "vendasaios",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-24T06:51:54Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "vibecode",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-03-03T08:12:29Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "vibecode-imersao",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-06T00:37:20Z",
+      "language": "HTML",
+      "stars": 3
+    },
+    {
+      "name": "videoprodutor",
+      "description": "O Produtor — orquestrador link/assunto → vídeo profissional (3 camadas), 16:9+9:16, local. Inclui a skill videoprodutor e o caso Hormozi.",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-08T00:13:29Z",
+      "language": "JavaScript",
+      "stars": 0
+    },
+    {
+      "name": "videos-cursos-inema",
+      "description": "Motor que transforma um curso INEMA em vídeos narrados e animados (HTML→MP4 via HyperFrames). Dark premium âmbar, narração local, CTA CABRAL.CLUB.",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-12T06:42:12Z",
+      "language": "JavaScript",
+      "stars": 1
+    },
+    {
+      "name": "VideosDGX",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-27T21:46:33Z",
+      "language": "Python",
+      "stars": 2
+    },
+    {
+      "name": "viralads",
+      "description": "Curso CABRAL.CLUB: encontrar, desconstruir e recriar anúncios vencedores com IA (público meia-idade+)",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-08T23:34:43Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "VISION",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "master",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-02T05:00:29Z",
+      "language": "HTML",
+      "stars": 2
+    },
+    {
+      "name": "VisionPro",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-01-15T14:47:20Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "vla",
+      "description": "VLA - Vision Language Action: Curso completo sobre IA Incorporada para Robótica | CABRAL.CLUB",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-03T03:54:23Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "vla-formacao",
+      "description": "Formação profissional em IA Incorporada (VLA) — landing CABRAL.CLUB",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-01T21:21:32Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "vla-mastery",
+      "description": "VLA Mastery — Vision-Language-Action: curso avançado de IA Incorporada para Robótica | 3 trilhas, 18 módulos | CABRAL.CLUB",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-01T12:01:55Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "web-AG01",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-01-25T06:00:55Z",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "webp",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "master",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-01-21T12:35:06Z",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "websitebuilder",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-02-26T03:17:09Z",
+      "language": "JavaScript",
+      "stars": 1
+    },
+    {
+      "name": "whatsapp-agentkit",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-02T09:17:22Z",
+      "language": "TypeScript",
+      "stars": 7
+    },
+    {
+      "name": "whatsapp-bsuid",
+      "description": "Curso CABRAL.CLUB sobre WhatsApp Username e BSUID — 3 trilhas (Fundamentos / Pessoas / Empresas)",
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-23T23:57:03Z",
+      "language": "HTML",
+      "stars": 1
+    },
+    {
+      "name": "youtube-1m",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2025-12-19T03:37:19Z",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "yt-pub-lives",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-15T06:39:13Z",
+      "language": "Python",
+      "stars": 6
+    },
+    {
+      "name": "yt-pub-lives2",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-05-11T21:03:17Z",
+      "language": "HTML",
+      "stars": 6
+    },
+    {
+      "name": "yt-pub-livesx",
+      "description": null,
+      "html_url": "https://github.com/GabrielCabral380/CABRAL",
+      "default_branch": "main",
+      "homepage": "https://gabrielcabral380.github.io/CABRAL/",
+      "updated_at": "2026-06-14T16:37:27Z",
+      "language": "Python",
+      "stars": 44
+    }
+  ],
+  "repo_url": "https://github.com/GabrielCabral380/CABRAL"
+}
